@@ -40,8 +40,5 @@ function areaCircunferencia(radio){
 }
 
 const res01 = areaCircunferencia(10);
-const res02 = areaCircunferencia(12344);
-const res03 = areaCircunferencia(144);
+
 console.log(res01);
-console.log(res02);
-console.log(res03);
